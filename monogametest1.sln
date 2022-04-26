@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monogametest1", "monogametest1.csproj", "{46880D3F-F297-45D5-87B8-F4AFB93D30A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46880D3F-F297-45D5-87B8-F4AFB93D30A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46880D3F-F297-45D5-87B8-F4AFB93D30A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46880D3F-F297-45D5-87B8-F4AFB93D30A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46880D3F-F297-45D5-87B8-F4AFB93D30A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A4D33AA-3D61-4FD2-AA39-3DE281CBA433}
+	EndGlobalSection
+EndGlobal
